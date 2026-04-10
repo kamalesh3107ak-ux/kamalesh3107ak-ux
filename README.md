@@ -6,25 +6,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;JavaScript+Learner;DSA+Enthusiast;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+Learner;learning+software+testing;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 CSE Graduate passionate about technology  
-- 🌱 Currently learning JavaScript, DSA, Backend Development  
+- 🎓 CSE Graduate passionate about technology    
 - 🧪 Exploring Software Testing  
-- 🔥 Interested in Full Stack & AI Projects  
+- 🔥 Interested in Full Stack & AI Projects & Software Testing 
 - 💡 Love solving real-world problems through code  
 - 🧠 Strong interest in clean code & problem solving  
-- 🎯 Goal: Become a highly skilled Software Engineer  
+ 
 
 ---
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,react,nodejs,python,eclipse" />
 </p>
 
 ---
@@ -39,7 +38,6 @@
 
 ## 📈 Currently Focusing On
 - 💻 Full Stack Development  
-- 🧠 Data Structures & Algorithms  
 - 🧪 Learning Software Testing  
 - ⚡ Building real-world projects  
 

@@ -50,10 +50,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamalesh3107ak-ux&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me

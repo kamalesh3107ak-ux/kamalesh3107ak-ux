@@ -2,17 +2,23 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | 💻 Web Enthusiast</h3>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Kamalesh&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;JavaScript+Learner;DSA+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 CSE Graduate passionate about technology
-- 🌱 Currently learning **JavaScript, DSA, Backend Development**
-- 🔥 Interested in **Full Stack + AI Projects**
-- 💡 Love solving real-world problems through code
-- 🎯 Goal: Become a highly skilled Software Engineer
+- 🎓 CSE Graduate passionate about technology  
+- 🌱 Currently learning JavaScript, DSA, Backend Development  
+- 🧪 Exploring Software Testing  
+- 🔥 Interested in Full Stack & AI Projects  
+- 💡 Love solving real-world problems through code  
+- 🧠 Strong interest in clean code & problem solving  
+- 🎯 Goal: Become a highly skilled Software Engineer  
 
 ---
 
@@ -24,6 +30,7 @@
 ---
 
 ## 📌 Projects
+- 🚀 **BuildNestAI** – AI-powered construction platform (Next.js, Supabase)  
 - 🌦️ **Weather App** – API-based real-time weather data  
 - 🧮 **Calculator App** – Basic arithmetic operations  
 - 🍲 **Recipe App** – Food recipes with UI  
@@ -31,9 +38,10 @@
 ---
 
 ## 📈 Currently Focusing On
-- 💻 Full Stack Development
-- 🧠 Data Structures & Algorithms
-- ⚡ Building real-world projects
+- 💻 Full Stack Development  
+- 🧠 Data Structures & Algorithms  
+- 🧪 Learning Software Testing  
+- ⚡ Building real-world projects  
 
 ---
 
@@ -47,10 +55,15 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamalesh1331/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/kamalesh3107ak-ux">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ## 🔥 Fun Fact
-💬 I believe consistency + practice = success 🚀
+💬 I believe consistency + practice = success 🚀  

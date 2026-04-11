@@ -23,7 +23,7 @@
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,react,nodejs,python,eclipse" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,react,nodejs,python,eclipse,postman" />
 </p>
 
 ---
@@ -33,7 +33,8 @@
 - 🌦️ **Weather App** – API-based real-time weather data  
 - 🧮 **Calculator App** – Basic arithmetic operations  
 - 🍲 **Recipe App** – Food recipes with UI  
-
+- 🔗 **API Test Automation (Postman)** – End-to-end API workflow automation using Postman Collections, and Collection Runner
+  
 ---
 
 ## 📈 Currently Focusing On

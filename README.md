@@ -34,6 +34,7 @@
 - 🧮 **Calculator App** – Basic arithmetic operations  
 - 🍲 **Recipe App** – Food recipes with UI  
 - 🔗 **API Test Automation (Postman)** – End-to-end API workflow automation using Postman Collections, and Collection Runner
+- 📄 **AI Resume Analyzer (Resumind)** - Developed an AI-powered platform to analyze resumes, calculate ATS scores, and provide                                                   intelligent suggestions for improvement using modern web technologies.
   
 ---
 

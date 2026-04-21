@@ -23,7 +23,7 @@
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,react,nodejs,python,eclipse,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,react,nodejs,python,eclipse,postman,webstrom" />
 </p>
 
 ---

@@ -9,14 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+Software+Testing;Building+Real+World+Projects" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamalesh3107ak-ux&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
-
 - 🎓 CSE Graduate passionate about technology  
 - 🧪 Exploring Software Testing  
 - 🔥 Interested in Full Stack, AI Projects & Software Testing  
@@ -34,7 +29,6 @@
 ---
 
 ## 📌 Projects
-
 - 🚀 **BuildNestAI** – AI-powered construction platform (Next.js, Supabase)  
 - 🌦️ **Weather App** – API-based real-time weather data  
 - 🧮 **Calculator App** – Basic arithmetic operations  
@@ -45,7 +39,6 @@
 ---
 
 ## 📈 Currently Focusing On
-
 - 💻 Full Stack Development  
 - 🧪 Learning Software Testing  
 - ⚡ Building real-world projects  
@@ -59,15 +52,6 @@
 </p>
 
 ---
-
-## ⚡ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kamalesh3107ak-ux/kamalesh3107ak-ux/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 
 ## 🌐 Connect With Me
 
@@ -84,11 +68,4 @@
 ---
 
 ## 🔥 Fun Fact
-
 💬 I believe consistency + practice = success 🚀
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=120&section=footer"/>
-</p>

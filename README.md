@@ -16,6 +16,7 @@
 ---
 
 ## 🧑‍💻 About Me
+
 - 🎓 CSE Graduate passionate about technology  
 - 🧪 Exploring Software Testing  
 - 🔥 Interested in Full Stack, AI Projects & Software Testing  
@@ -33,6 +34,7 @@
 ---
 
 ## 📌 Projects
+
 - 🚀 **BuildNestAI** – AI-powered construction platform (Next.js, Supabase)  
 - 🌦️ **Weather App** – API-based real-time weather data  
 - 🧮 **Calculator App** – Basic arithmetic operations  
@@ -43,32 +45,17 @@
 ---
 
 ## 📈 Currently Focusing On
+
 - 💻 Full Stack Development  
 - 🧪 Learning Software Testing  
 - ⚡ Building real-world projects  
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamalesh3107ak-ux&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalesh3107ak-ux&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=kamalesh3107ak-ux&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh3107ak-ux&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -76,18 +63,11 @@
 ## ⚡ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamalesh3107ak-ux/kamalesh3107ak-ux/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kamalesh3107ak-ux/kamalesh3107ak-ux/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🛠️ Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -103,17 +83,8 @@
 
 ---
 
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://buymeacoffee.com/">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
-  </a>
-</p>
-
----
-
 ## 🔥 Fun Fact
+
 💬 I believe consistency + practice = success 🚀
 
 ---

@@ -6,25 +6,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;learning+software+testing;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+Software+Testing;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 CSE Graduate passionate about technology    
+- 🎓 CSE Graduate passionate about technology  
 - 🧪 Exploring Software Testing  
-- 🔥 Interested in Full Stack & AI Projects & Software Testing 
+- 🔥 Interested in Full Stack, AI Projects & Software Testing  
 - 💡 Love solving real-world problems through code  
 - 🧠 Strong interest in clean code & problem solving  
- 
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/iconsi=html,css,js,ts,mysql,git,github,vscode,react,nodejs,python,postman,webstorm,playwright,cypress/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,git,github,vscode,react,nodejs,python,postman,webstorm,playwright,cypress" />
 </p>
 
 ---
@@ -34,9 +33,9 @@
 - 🌦️ **Weather App** – API-based real-time weather data  
 - 🧮 **Calculator App** – Basic arithmetic operations  
 - 🍲 **Recipe App** – Food recipes with UI  
-- 🔗 **API Test Automation (Postman)** – End-to-end API workflow automation using Postman Collections, and Collection Runner
-- 📄 **AI Resume Analyzer (Resumind)** - Developed an AI-powered platform to analyze resumes, calculate ATS scores, and provide                                                   intelligent suggestions for improvement using modern web technologies.
-  
+- 🔗 **API Test Automation (Postman)** – End-to-end API workflow automation using Postman Collections and Collection Runner  
+- 📄 **AI Resume Analyzer (Resumind)** – Developed an AI-powered platform to analyze resumes, calculate ATS scores, and provide intelligent suggestions for improvement using modern web technologies  
+
 ---
 
 ## 📈 Currently Focusing On
@@ -52,14 +51,15 @@
   <img src="https://streak-stats.demolab.com/?user=kamalesh3107ak-ux&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://github.com/kamalesh3107ak-ux">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
+
   <a href="https://www.linkedin.com/in/kamalesh1331/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
@@ -68,4 +68,4 @@
 ---
 
 ## 🔥 Fun Fact
-💬 I believe consistency + practice = success 🚀  
+💬 I believe consistency + practice = success 🚀

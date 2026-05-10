@@ -9,6 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+Software+Testing;Building+Real+World+Projects" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamalesh3107ak-ux&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -45,10 +49,42 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamalesh3107ak-ux&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalesh3107ak-ux&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=kamalesh3107ak-ux&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh3107ak-ux&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamalesh3107ak-ux/kamalesh3107ak-ux/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🛠️ Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -67,5 +103,21 @@
 
 ---
 
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
+  </a>
+</p>
+
+---
+
 ## 🔥 Fun Fact
 💬 I believe consistency + practice = success 🚀
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=120&section=footer"/>
+</p>

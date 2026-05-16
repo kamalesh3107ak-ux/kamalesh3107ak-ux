@@ -35,7 +35,7 @@
 - 🍲 **Recipe App** – Food recipes with UI  
 - 🔗 **API Test Automation (Postman)** – End-to-end API workflow automation using Postman Collections and Collection Runner  
 - 📄 **AI Resume Analyzer (Resumind)** – Developed an AI-powered platform to analyze resumes, calculate ATS scores, and provide intelligent suggestions for improvement using modern web technologies
-- 🚀 Library Management System – Modern Flask-based library platform with dark/light mode, dashboard analytics, PDF download, live clock, authentication system, responsive UI, and book management features.
+- 🚀 **Library Management System** – Modern Flask-based library platform with dark/light mode, dashboard analytics, PDF download, live clock, authentication system, responsive UI, and book management features.
 
 ---
 
